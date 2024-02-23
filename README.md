@@ -140,8 +140,18 @@ meu_projeto/
 │   LICENSE
 │   README.md
 │
+└───venv/
+│       Include/
+│       Lib/
+│       Scripts/
+│         activate.bat
+│         activate
+│         python.exe
+│         pip.exe
+│         ...
+│   
 └───.vscode/
-│      settings.json
+│       settings.json
 │   
 └───meu_app/
 │   │   __init__.py
